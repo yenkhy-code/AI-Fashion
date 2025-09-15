@@ -1,0 +1,5 @@
+{
+  "name": "AI 무드보드 만들기",
+  "description": "Nano Banana 모델을 사용하여 사진을 편집합니다.",
+  "requestFramePermissions": []
+}
